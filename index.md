@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Ishita's web
 
 You can use the [editor on GitHub](https://github.com/Ishita630/Ishita630.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### coding 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+coding is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```coding
 Syntax highlighted code block
 
 # Header 1
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+Hi everyone , this is Ishita here. I'm also a one from you guys and also passionate for coding. 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
